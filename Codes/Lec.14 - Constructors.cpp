@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-						// A constructor is a function that is called automaticly as soon as an Object is created
+						// A constructor is a function that is called automaticly as soon as an Object is created :)
 						// Constructors are used to get bunches variables and to set them initially afterwards
 class KernelsClass{
 	public: 
