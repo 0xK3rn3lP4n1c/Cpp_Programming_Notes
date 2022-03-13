@@ -1,0 +1,13 @@
+chair 0
+suit 0
+water 100
+cz75b -899
+ninja -54
+fruit 43
+shoe 0
+pencil -999
+candy 87
+soda 32 
+meth -44
+needle 99 
+dirtyneedle -10
